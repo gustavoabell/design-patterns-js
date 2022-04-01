@@ -1,8 +1,8 @@
 # Design patterns
 
-In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. 
+Na engenharia de software, um padrão de projeto é uma solução geral repetível para um problema comum no projeto de software. Um padrão de design não é um design acabado que pode ser transformado diretamente em código. É uma descrição ou modelo de como resolver um problema que pode ser usado em muitas situações diferentes.
 
-The GoF (Ganf of four) patterns are implemented in JavaScript.
+O GoF (Ganf of four) padrões são implementados em JavaScript.
 
 ## Run
 
@@ -27,16 +27,16 @@ npm start
 
 ### Creational design patterns
 
-These design patterns are all about class instantiation. This pattern can be further divided into class-creation patterns and object-creational patterns. While class-creation patterns use inheritance effectively in the instantiation process, object-creation patterns use delegation effectively to get the job done.
+Esses padrões de projeto são sobre instanciação de classe. Esse padrão pode ser dividido em padrões de criação de classes e padrões de criação de objetos. Enquanto os padrões de criação de classes usam a herança de forma eficaz no processo de instanciação, os padrões de criação de objetos usam a delegação de forma eficaz para realizar o trabalho.
 
 ### Structural design patterns
 
-These design patterns are all about Class and Object composition. Structural class-creation patterns use inheritance to compose interfaces. Structural object-patterns define ways to compose objects to obtain new functionality.
+Esses padrões de design são sobre composição de classe e objeto. Padrões estruturais de criação de classes usam herança para compor interfaces. Padrões de objetos estruturais definem maneiras de compor objetos para obter novas funcionalidades.
 
 
 ### Behavioral design patterns
 
-These design patterns are all about Class's objects communication. Behavioral patterns are those patterns that are most specifically concerned with communication between objects.
+Esses padrões de design são todos sobre a comunicação de objetos da classe. Padrões comportamentais são aqueles padrões que estão mais especificamente preocupados com a comunicação entre objetos.
 
 ## Credits
 
