@@ -1,3 +1,4 @@
+
 # Design patterns
 
 Na engenharia de software, um padrão de projeto é uma solução geral repetível para um problema comum no projeto de software. Um padrão de design não é um design acabado que pode ser transformado diretamente em código. É uma descrição ou modelo de como resolver um problema que pode ser usado em muitas situações diferentes.
